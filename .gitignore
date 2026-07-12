@@ -2,3 +2,7 @@
 aura-web/node_modules/
 az_data/*.jsonl
 
+
+.env
+AuraBrain/.env
+
