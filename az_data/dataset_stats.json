@@ -1,0 +1,18 @@
+{
+    "total_documents": 143150,
+    "total_words": 30738719,
+    "total_characters": 236497995,
+    "estimated_tokens": 42972441,
+    "source_distribution": {
+        "wikipedia_az": 19,
+        "cc100_az": 142813,
+        "local_qa": 304,
+        "local_knowledgebase": 14
+    },
+    "tokens_per_source": {
+        "wikipedia_az": 5703,
+        "cc100_az": 42871276,
+        "local_qa": 91258,
+        "local_knowledgebase": 4202
+    }
+}
